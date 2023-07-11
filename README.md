@@ -1,4 +1,19 @@
-nqueens
-bit演算、再帰関数の練習としてnqueens問題を解いてみました。
-for文　関数が２５行を超えることを禁止事項とし作成してあります。
-SIZE=14　まで素早く出力できます。
+ ## nqueens
+Solving nqueens problems as an exercise in bit operations and recursive functions.
+
+**prohibition
+for statement　
+Functions exceeding 25 lines.
+
+**Downloading and run command
+
+Clone this repository
+```bash
+$ git clone https://github.com/Taishiyy/nqueens.git
+```
+
+Run code
+```bash
+$ make
+$ ./nqueens
+```
